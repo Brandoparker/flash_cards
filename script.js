@@ -4,10 +4,10 @@ $(document).ready(function(){
       question:'samplequestion', answer:'samepleanswer'
       },
     {
-      question:'2samplequestion', answer:'2sampleanswer'
+      question:'samplequestion', answer:'sampleanswer'
       },
       {
-      question:'3samplequestion', answer:'3sampleanswer'
+      question:'samplequestion', answer:'sampleanswer'
       }
   ]
   let randomCard = () => {
