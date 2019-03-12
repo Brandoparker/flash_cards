@@ -1,0 +1,49 @@
+.card {
+	background-color: #0d47a1;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 33%;
+  height: 90px;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+}
+
+.hide {
+	display: none
+}
+
+body {
+	font-family: monospace;
+	background-color: #e3f2fd;
+}
+
+.header {
+	color: white;
+	display: flex;
+	justify-content: center;
+	background-color: #1a237e;
+	font-size: 25px;
+}
+
+
+.container {
+	padding: 10px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+
+.showcard,
+.flippy {
+	color: #fff;
+	border-radius: 5px;
+	background-color: #2196f3;
+}
