@@ -1,13 +1,13 @@
 $(document).ready(function(){
   const flashCards = [ 
     {
-      question:'samplequestion', answer:'samepleanswer'
+      question:'question', answer:'answer'
       },
     {
-      question:'samplequestion', answer:'sampleanswer'
+      question:'question', answer:'answer'
       },
       {
-      question:'samplequestion', answer:'sampleanswer'
+      question:'question', answer:'answer'
       }
   ]
   let randomCard = () => {
