@@ -1,5 +1,5 @@
 .card {
-	background-color: #0d47a1;
+	background-color: #2aad77;
   border: 1px solid black;
   border-radius: 5px;
   width: 33%;
@@ -23,7 +23,7 @@ body {
 	color: white;
 	display: flex;
 	justify-content: center;
-	background-color: #1a237e;
+	background-color: #2aad77;
 	font-size: 25px;
 }
 
