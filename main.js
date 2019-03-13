@@ -27,7 +27,7 @@
     $('#card-back').text(randomCard.back)
   })
 
-  $(document).on('click', '.flippy', ({ target }) => { 
+  $(document).on('click', '.flip', ({ target }) => { 
     event.preventDefault();
     card = $(target).parent('.card')
     card.children('.c-body').toggleClass('hide')

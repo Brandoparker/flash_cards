@@ -16,20 +16,20 @@
 
 body {
 	font-family: monospace;
-	background-color: #e3f2fd;
+	background-color: #f6f9fc;
 }
 
 .header {
-	color: white;
+	color: rgb(131, 67, 67);
 	display: flex;
 	justify-content: center;
 	background-color: #2aad77;
-	font-size: 25px;
+	font-size: 15px;
 }
 
 
 .container {
-	padding: 10px 0;
+	padding: 25px 0;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -45,5 +45,5 @@ body {
 .flippy {
 	color: #fff;
 	border-radius: 5px;
-	background-color: #2196f3;
+	background-color: rgb(122, 73, 73);
 }
